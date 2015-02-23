@@ -74,7 +74,6 @@ lodash is also available in a variety of other builds & module formats.
  * [_.forEach](https://lodash.com/docs#forEach) supports exiting early
  * [_.forIn](https://lodash.com/docs#forIn) for iterating all enumerable properties
  * [_.forOwn](https://lodash.com/docs#forOwn) for iterating own properties
- * [_.includes](https://lodash.com/docs#includes) accepts a `fromIndex`
  * [_.inRange](https://lodash.com/docs#inRange) for checking whether a number is within a given range
  * [_.isNative](https://lodash.com/docs#isNative) to check for native functions
  * [_.isPlainObject](https://lodash.com/docs#isPlainObject) & [_.toPlainObject](https://lodash.com/docs#toPlainObject) to check for & convert to `Object` objects
